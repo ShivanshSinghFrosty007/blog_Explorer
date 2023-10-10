@@ -1,6 +1,6 @@
 # blog_Explorer
 
-step 1 - download [app-release.apk](https://github.com/ShivanshSinghFrosty007/blog_Explorer/blob/main/app-release.apk")
+step 1 - download [app-release.apk](https://github.com/ShivanshSinghFrosty007/blog_Explorer/raw/main/app-release.apk)
 
 step 2 - install in android devic
 
